@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_IMAGE_NAME_HERE.jpg" width="100%" height="auto" alt="My Banner Photo" />
+  <img src="https://github.com/Anuhasraj/Anuhasraj/blob/main/javagif.gif?raw=true" width="100%" height="auto" alt="My Banner Photo" />
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 </td>
 <td width="40%" align="center" valign="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/coding.gif" width="90%" alt="Hacking Terminal" />
+  <img src="https://github.com/Anuhasraj/Anuhasraj/blob/main/1gif.gif?raw=true" width="90%" alt="Hacking Terminal" />
 </td>
 </tr>
 </table>
