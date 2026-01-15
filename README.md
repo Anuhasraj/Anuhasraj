@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="auto" alt="Cyber Security Gif" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Life+is+a+Code;Debug+Your+Mind;Rewrite+Reality" alt="Typing SVG" />
 </div>
 
@@ -8,7 +12,12 @@
   <h3>🔒 Aspiring Tech Entrepreneur | Developer | Exploring the world of Cyber Security & IoT 💻</h3>
 </div>
 
-<br/>
+---
+
+<div align="center">
+<table border="0">
+<tr>
+<td width="60%" align="left" valign="center">
 
 ### 👨‍💻 About Me
 
@@ -17,6 +26,14 @@
 - 🛠️ I enjoy building projects using **C++, SQL, and IoT (Arduino)**.
 - 💡 I have a keen interest in **Entrepreneurship** and starting my own tech ventures.
 - ⚡ Fun fact: When I'm not coding, I'm probably grinding rank in **PUBG Mobile** or exploring new business ideas!
+
+</td>
+<td width="40%" align="center" valign="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="90%" alt="Hacking Terminal" />
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
