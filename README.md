@@ -40,7 +40,7 @@
 ### 🚀 Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,php,mysql,arduino,linux,html,css,vscode,git,networking" />
+  <img src="https://skillicons.dev/icons?i= c, cpp, java, js, css, html, php, mysql, bootstrap, arduino, python, linux" />
 </div>
 
 <br/>
