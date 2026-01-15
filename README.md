@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" height="auto" alt="Cyber Security Gif" />
+  <img src="YOUR_IMAGE_NAME_HERE.jpg" width="100%" height="auto" alt="My Banner Photo" />
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 </td>
 <td width="40%" align="center" valign="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="90%" alt="Hacking Terminal" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/coding.gif" width="90%" alt="Hacking Terminal" />
 </td>
 </tr>
 </table>
