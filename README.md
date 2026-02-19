@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **Network Security, Ethical Hacking, and Advanced PHP**.
 - 🛠️ I enjoy building projects using **C++, SQL, and IoT (Arduino)**.
 - 💡 I have a keen interest in **Entrepreneurship** and starting my own tech ventures.
-- ⚡ Fun fact: When I'm not coding, I'm probably grinding rank in **PUBG Mobile** or exploring new business ideas!
+- ⚡ Fact: When I'm not coding, I'm probably exploring new ideas!
 
 </td>
 <td width="40%" align="center" valign="center">
