@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuhasraj)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuhasraj" />
   <img src="https://github-readme-stats.vercel.app/api?username=Anuhasraj&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuhasraj&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
